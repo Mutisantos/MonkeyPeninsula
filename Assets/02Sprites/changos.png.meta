@@ -1,0 +1,1020 @@
+fileFormatVersion: 2
+guid: 9512982e6b883924d9911c52d62b5030
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: changos_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 404
+        width: 26
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198b256f801ec41498aa7d5da7e3d8e5
+      internalID: 2085278082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 404
+        width: 28
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5248dffffda2d4249882d4f772f37854
+      internalID: -748772668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 405
+        width: 33
+        height: 40
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb691f24932f13949917cd5ba2ffd21f
+      internalID: 1054175144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 406
+        width: 39
+        height: 41
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aee08d91c3b6e4fb28fa1e4dfe1b2a
+      internalID: -1319533029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 407
+        width: 25
+        height: 42
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d932a8cc40dfd334ca12949604188046
+      internalID: -1620439247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_6
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 407
+        width: 28
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65f28a972fd00b4ba23d5d1f978ec58
+      internalID: -1296214088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 407
+        width: 29
+        height: 44
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e43c61f8d16f646ae2f133ac805283
+      internalID: -166596890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 407
+        width: 33
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69091cb12a6bfec4aaf7a25e98624d1c
+      internalID: -40969241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 344
+        width: 34
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ba68c0ad6a5b4f811cb5024df3092
+      internalID: -1151515180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 343
+        width: 34
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bea4ec4c5fe20b4c888d4ade2f6e6b0
+      internalID: 933853897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 343
+        width: 34
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23eefa19a968e74bafcaae968c4b7b3
+      internalID: 1564486345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 343
+        width: 34
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b049ccea93f589643abd051094a7c5a5
+      internalID: -489465680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 343
+        width: 34
+        height: 43
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63b908e71ab917488d1a44c9008bcc8
+      internalID: -2059872980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_17
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 263
+        width: 31
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb22b3aa1935d04c9e19fbcebaf16e0
+      internalID: 347993863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 263
+        width: 30
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281eab7ccbae5e34c84bc7ac385cd91b
+      internalID: 323355769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 263
+        width: 37
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7a83fa4582ede40a034efd0e720fea
+      internalID: -1445836749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 263
+        width: 50
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd876cfb438773f428479f3b4737bf18
+      internalID: -1003551939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_21
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 263
+        width: 55
+        height: 47
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aff44e47846784eb9a622bf350be0f
+      internalID: -639909917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_22
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 257
+        width: 55
+        height: 52
+      alignment: 9
+      pivot: {x: -0, y: 0.11538462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01474aa63a3a8a4495111b2c4b8800a
+      internalID: -223427256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_23
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 247
+        width: 57
+        height: 61
+      alignment: 9
+      pivot: {x: 0, y: 0.26229507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24179392ac6b9c41a97179bf5c427a0
+      internalID: -503144078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_24
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 246
+        width: 56
+        height: 59
+      alignment: 9
+      pivot: {x: -0, y: 0.2881356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36776c0be9fcd5e488fff428f20d5c49
+      internalID: -98301626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_25
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 246
+        width: 39
+        height: 59
+      alignment: 9
+      pivot: {x: 0, y: 0.2881356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3362db31fdf9e4086682e568db9615
+      internalID: 1055108947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_26
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 248
+        width: 31
+        height: 57
+      alignment: 9
+      pivot: {x: 0, y: 0.28070176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2aa780121bb794ea3ec406a8090cf8
+      internalID: 1165140412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_27
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 249
+        width: 30
+        height: 55
+      alignment: 9
+      pivot: {x: 0, y: 0.25454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c18810425f23504eae4cb4efeaefca4
+      internalID: -1354994149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_28
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 171
+        width: 83
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f9ce0c4ef96eb4db7141a6f0d30fe4
+      internalID: 520998744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_29
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 170
+        width: 82
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f15f2da8f86a546a0c9bf7b764800b
+      internalID: -841749146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_30
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 167
+        width: 75
+        height: 52
+      alignment: 9
+      pivot: {x: 1, y: 0.05769231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558c6bb690a70ba4db92319cdf8e1225
+      internalID: -878105092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_31
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 170
+        width: 54
+        height: 56
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3e82ca3ec1cba4eaacbcf3260a7f6c
+      internalID: 497846213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_32
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 171
+        width: 70
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7adf35150232854fb16d762d78895f1
+      internalID: 263802495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_33
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 170
+        width: 74
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3dcdee2ef90d846bfa98a281c89903
+      internalID: -1449738888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 91
+        width: 41
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70396ba524d0be14b9c8b74e689061cb
+      internalID: 1018564800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_35
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 91
+        width: 41
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca540070d9dabc4b926e7961e339707
+      internalID: -1029261040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_36
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 91
+        width: 41
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a450f4f3dfa73d5438fae512ac88cbe7
+      internalID: -1482741830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_37
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 91
+        width: 41
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fb2a7f98c9897408ca5cfefe289804
+      internalID: 1333931828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_38
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 91
+        width: 41
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4995cdd44ca2bc45ba523612355ad58
+      internalID: -1025763714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_39
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 92
+        width: 37
+        height: 62
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc275276d0efe14e9e6cadeffb431ef
+      internalID: 716032714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_40
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 92
+        width: 37
+        height: 64
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7a3d17485d8c24581d5a8e590b6391
+      internalID: 1875287163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_41
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 92
+        width: 39
+        height: 62
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea653fee1025544fbb4a5233dd0a15c
+      internalID: 806612055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_43
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 25
+        width: 43
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6a7bb1566919942a6444a7eb3e370f
+      internalID: -487794689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: changos_44
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 23
+        width: 37
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccbba48465901b4f842b952a60b05e2
+      internalID: 1299121849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      changos_12: -489465680
+      changos_40: 1875287163
+      changos_3: -1319533029
+      changos_14: 1145849020
+      changos_9: -1151515180
+      changos_37: 1333931828
+      changos_29: -841749146
+      changos_36: -1482741830
+      changos_18: 323355769
+      changos_10: 933853897
+      changos_19: -1445836749
+      changos_17: 347993863
+      changos_42: 1799393503
+      changos_21: -639909917
+      changos_22: -223427256
+      changos_7: -166596890
+      changos_5: -1620439247
+      changos_26: 1165140412
+      changos_39: 716032714
+      changos_43: -487794689
+      changos_41: 806612055
+      changos_35: -1029261040
+      changos_0: 2085278082
+      changos_4: -1421646556
+      changos_6: -1296214088
+      changos_31: 497846213
+      changos_28: 520998744
+      changos_38: -1025763714
+      changos_13: -2059872980
+      changos_30: -878105092
+      changos_2: 1054175144
+      changos_15: -665510722
+      changos_32: 263802495
+      changos_34: 1018564800
+      changos_20: -1003551939
+      changos_16: -389363420
+      changos_1: -748772668
+      changos_44: 1299121849
+      changos_27: -1354994149
+      changos_25: 1055108947
+      changos_23: -503144078
+      changos_11: 1564486345
+      changos_24: -98301626
+      changos_8: -40969241
+      changos_33: -1449738888
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
